@@ -15,7 +15,7 @@ def read_root():
             "id": 2,
             "title": "Test title",
             "description": "Test post description",
-        }
+        },
     ]
 
 
